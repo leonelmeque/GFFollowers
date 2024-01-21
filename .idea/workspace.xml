@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8efe63a-96df-4f90-a992-4e26dd4ef2ea" name="Changes" comment="feat: add assets">
+      <change beforePath="$PROJECT_DIR$/GithubFollowers.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/GithubFollowers.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubFollowers/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/GithubFollowers/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubFollowers/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubFollowers/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/GithubFollowers/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubFollowers/SceneDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/GithubFollowers/SceneDelegate.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2bGV1u4MQ0aVautTvh0zt5BpMmZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/leonel.meque/Documents/Glovo/iOS Transition/GithubFollowers",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8efe63a-96df-4f90-a992-4e26dd4ef2ea" name="Changes" comment="" />
+      <created>1705841191988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705841191988</updated>
+      <workItem from="1705841193108" duration="112000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add screens">
+      <option name="closed" value="true" />
+      <created>1705841231761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705841231761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add models">
+      <option name="closed" value="true" />
+      <created>1705841238663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705841238663</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add custom views">
+      <option name="closed" value="true" />
+      <created>1705841248614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705841248614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add extension and managers">
+      <option name="closed" value="true" />
+      <created>1705841258817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705841258817</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add assets">
+      <option name="closed" value="true" />
+      <created>1705841287339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705841287339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add screens" />
+    <MESSAGE value="feat: add models" />
+    <MESSAGE value="feat: add custom views" />
+    <MESSAGE value="feat: add extension and managers" />
+    <MESSAGE value="feat: add assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add assets" />
+  </component>
+</project>
